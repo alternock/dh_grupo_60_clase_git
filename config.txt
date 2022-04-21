@@ -1,0 +1,6 @@
+{
+ localhost:"",
+ user:"",
+ password:"",
+ port:"",
+}
